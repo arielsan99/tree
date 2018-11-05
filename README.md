@@ -19,6 +19,8 @@ Visualización de un arbol de los departamentos y  la capital de Colombia y el n
  
  4) Link
   https://monikaduran.github.io/tree/
+  
+  slides: https://docs.google.com/presentation/d/1Rg3uTLUZBW90rCGpWf9U84tLvCcdj6P06QaLGqBjOTk/edit?usp=sharing
  
  5) screenshot
  
